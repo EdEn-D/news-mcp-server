@@ -1,5 +1,5 @@
-uvicorn
-python-dotenv
-fastapi
+langchain-openai
+mcp[cli]
 pydantic
-fastapi_mcp
+python-dotenv
+requests
